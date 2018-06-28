@@ -1,0 +1,4 @@
+在wmt16_gnmt_4_layer.json文件下16行添加如下两行：
+
+"num_encoder_layers": 4, 
+"num_decoder_layers": 4,
